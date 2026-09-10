@@ -1,0 +1,1 @@
+PAPER CUP CONSULTANCY free static website. Upload all files together. logo.png is the exact supplied logo. Forms and WhatsApp are placeholders until connected to real services.
